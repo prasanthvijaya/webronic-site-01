@@ -69,7 +69,7 @@
     "test": "node scripts/test.js",
      "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-  },  "homepage": "https://prasanthvijaya.github.io/webronic-site-01",
+  },  "homepage": "https://prasanthvijaya.github.io/webronic-site-01/home",
   "eslintConfig": {
     "extends": [
       "react-app",
